@@ -192,6 +192,3 @@ Public Function HasDuty(currentRow As Integer, innerLoopIndex As Integer, lastDa
         End If
     End If
 End Function
-
-
-
